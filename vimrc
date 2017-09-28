@@ -10,6 +10,9 @@ syntax enable
 set background=dark
 colorscheme gruvbox
 
+" tell vim how to save the file - ex. useful for webpack-dev-server
+set backupcopy=yes
+
 " set line numbers
 set number
 
