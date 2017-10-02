@@ -33,6 +33,7 @@ set list
 set listchars=tab:▸-,eol:⏎,trail:-
 
 " tabstop + ui settings
+set mouse=a
 set smarttab
 set noerrorbells novisualbell
 set ruler
